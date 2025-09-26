@@ -28,7 +28,7 @@ public class Main extends Application {
         StackPane root = new StackPane(canvas);
         Scene scene = new Scene(root, 600, 400, Color.LIGHTGRAY);
 
-        stage.setTitle("Arkanoid Test");
+        stage.setTitle("Arkanoid heheheehe");
         stage.setScene(scene);
         stage.show();
     }
